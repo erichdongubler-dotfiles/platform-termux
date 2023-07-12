@@ -1,0 +1,8 @@
+bat
+fd
+git
+git-delta
+nushell
+rust
+starship
+zoxide
