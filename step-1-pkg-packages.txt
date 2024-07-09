@@ -2,6 +2,7 @@ bat
 fd
 git
 git-delta
+neovim
 nushell
 rust
 starship
