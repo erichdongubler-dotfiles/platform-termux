@@ -4,6 +4,7 @@ git
 git-delta
 neovim
 nushell
+ripgrep
 rust
 starship
 zoxide
